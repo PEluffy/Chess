@@ -1,0 +1,8 @@
+# Ignore all .json files
+*.json
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore dist directory
+dist/
